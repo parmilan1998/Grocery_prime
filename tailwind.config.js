@@ -11,8 +11,10 @@ module.exports = {
         poppins: '"Poppins", sans-serif',
         roboto: '"Roboto", sans-serif',
         acme: '"Acme", sans-serif',
+        platypi: '"Platypi", serif',
       },
     },
   },
+
   plugins: [],
 };
